@@ -2,18 +2,18 @@
 
 App Android per **gestire e analizzare il proprio portafoglio di investimenti** (ETF e azioni): prezzi live, grafici, statistiche di rischio, previsioni e notizie — tutto in un'unica interfaccia, semplice e in italiano.
 
-🔗 **Repository:** https://github.com/charles1812/GRUZZOLO_test_live
+🔗 **Repository:** https://github.com/charles1812/GRUZZOLO_app
 
 ---
 
 ## 🔴 Prova la demo dal browser
 
-### 👉 https://charles1812.github.io/GRUZZOLO_test_live/
+### 👉 https://charles1812.github.io/GRUZZOLO_app/
 
 Nessuna installazione, nessun account: la demo parte già con un **portafoglio di esempio** e usa **dati simulati**, così puoi vedere tutte le schermate funzionanti — portafoglio, grafici, statistiche, previsioni e notizie.
 
 > Se il link non è ancora attivo, apri la demo anche così:
-> `https://htmlpreview.github.io/?https://raw.githubusercontent.com/charles1812/GRUZZOLO_test_live/main/docs/index.html`
+> `https://htmlpreview.github.io/?https://raw.githubusercontent.com/charles1812/GRUZZOLO_app/main/docs/index.html`
 
 *(Il link `github.io` funziona dopo aver attivato GitHub Pages: Settings → Pages → branch `main`, cartella `/docs`.)*
 
@@ -36,7 +36,7 @@ Gruzzolo è un'app Android leggera per tenere sotto controllo i propri investime
 
 ## Come usarla
 
-- **Solo guardare l'interfaccia** → apri la [demo](https://charles1812.github.io/GRUZZOLO_test_live/).
+- **Solo guardare l'interfaccia** → apri la [demo](https://charles1812.github.io/GRUZZOLO_app/).
 - **Installarla sul telefono** → apri la cartella del progetto in **Android Studio** e premi *Run* (oppure `./gradlew assembleDebug`). Requisiti: Android 9+ (minSdk 28), Java 17.
 
 ## Tecnologie
