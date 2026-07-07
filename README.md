@@ -12,9 +12,10 @@ App Android per **gestire e analizzare il proprio portafoglio di investimenti** 
 
 Nessuna installazione, nessun account: la demo parte già con un **portafoglio di esempio** e usa **dati simulati**, così puoi vedere tutte le schermate funzionanti — portafoglio, grafici, statistiche, previsioni e notizie.
 
-> Se lo vuoi vedere offline, apri la demo anche così:
+> Se il link non è ancora attivo, apri la demo anche così:
 > `https://htmlpreview.github.io/?https://raw.githubusercontent.com/charles1812/GRUZZOLO_test_live/main/docs/index.html`
 
+*(Il link `github.io` funziona dopo aver attivato GitHub Pages: Settings → Pages → branch `main`, cartella `/docs`.)*
 
 ---
 
